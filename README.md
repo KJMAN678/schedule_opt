@@ -5,6 +5,7 @@
 [こちら](http://people.brunel.ac.uk/~mastjjb/jeb/orlib/ptaskinfo.html) にある csp50.txt
 
 ## 変更点
+- 計算量軽減のため、time_df 50個からサンプルで30個に絞っている
 - pandasのDataFrame型を読み込んで最適化するように変更
 - networkx のノード表示する際に何番目のデータに相当するノートなのかわかるように、テキストを合わせて表示するようにした
 ![ダウンロード](https://user-images.githubusercontent.com/45703844/132967322-82e9f391-38a6-413e-bc09-93f1f0cc9e31.png)
@@ -12,7 +13,6 @@
   - group の数字が同じものが組み合わされたスケジュール
 <img width="201" alt="2021-09-12_10h06_34" src="https://user-images.githubusercontent.com/45703844/132967354-ad6649f6-9ef3-40e9-81b4-e3a2cd3df49b.png">
 - 組み合わせ可能なスケジュール候補 cost_df(time_df の start ～ finish 処理時間帯 が重複しない組み合わせ) をロジックで作成するようにした  
-- 計算量軽減のため、time_df 50個からサンプルで30個に絞っている  
 
 ## その他
 - [Google Colab](https://colab.research.google.com/drive/1q417zxbnmMfRkzrWquQo-27ehJ0bCYo2?usp=sharing)
