@@ -1,7 +1,7 @@
 ## コード元
 - 久保幹雄先生の Python言語による実務で使える100+の最適化問題 [乗務員スケジューリング問題](https://mikiokubo.github.io/opt100/80csp.html#%E4%B9%97%E5%8B%99%E5%93%A1%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E5%95%8F%E9%A1%8C) 
 
-- YouTube
+- YouTube  
 https://www.youtube.com/watch?v=UdgWRyStR-U&t=2s
 
 ## 使用データセット
