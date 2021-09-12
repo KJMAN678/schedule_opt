@@ -16,5 +16,5 @@
 
 ## その他
 - [Google Colab](https://colab.research.google.com/drive/1q417zxbnmMfRkzrWquQo-27ehJ0bCYo2?usp=sharing)
-- gurobi - Error code = 10004 Unable to retrieve attribute 'X' は最適化に失敗すると出るエラー
+- gurobi - Error code = 10004 Unable to retrieve attribute 'X' は最適化に失敗すると出るエラー  
 [参考サイト](https://stackoverflow.com/questions/19270102/gurobi-error-code-10004-unable-to-retrieve-attribute-x)
